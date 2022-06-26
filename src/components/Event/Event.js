@@ -26,7 +26,8 @@ const Event = () => {
                             handelAddToCart={handelAddToCart}
 
                         >
-                        </Singers>)
+                        </Singers>
+                        )
                     }
                 </div>
                 <div className='cart-container'>
