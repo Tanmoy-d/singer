@@ -1,0 +1,191 @@
+[
+    {
+        "name": "Arijit Singh",
+        "age": "35 years",
+        "occupation": "Singer; composer; music produc...",
+        "year_active": "2005-present",
+        "Awards": "Mirchi Music Awards for Listener’s Choice Song of the Year, MORE:",
+        "price": 100000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Arijit_5th_GiMA_Awards.jpg/330px-Arijit_5th_GiMA_Awards.jpg"
+    },
+    {
+        "name": "Shreya Ghoshal",
+        "age": "38 years",
+        "occupation": "Singer; talent show judge; ",
+        "year_active": "1998-present",
+        "Awards": "Filmfare R. D. Burman Award, MORE",
+        "price": 120000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Shreya_Ghoshal_at_Filmfare_Awards_South.jpg"
+    },
+    {
+        "name": "Sonu Nigam",
+        "age": "48 years",
+        "occupation": " Playback singer; music director; ",
+        "year_active": "1993-present",
+        "Awards": "Padma Shri, MORE",
+        "price": 128000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs3CUOeXmkGddJ-s_jNXM09c7MOtUuPsbDQ&usqp=CAU"
+    },
+    {
+        "name": "Neha Kakkar",
+        "age": "38 years",
+        "occupation": " Singer; ",
+        "year_active": "2006-present",
+        "Awards": "Punjabi Music Best Duet Vocalist Award, MORE",
+        "price": 90000,
+        "img": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSKgVoCeFzuKVixU1OHBqvxmbAMkVj_e9lzBhmrdqq9wa8e2WNTwnU-k6osYCkrbln9"
+    },
+    {
+        "name": "Sunidhi Chauhan",
+        "age": "38 years",
+        "occupation": " Singer; ",
+        "year_active": "1996-present",
+        "Awards": "Mirchi Music Awards for Listener’s Choice Song of the Year, MORE",
+        "price": 90000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGtSkYCE0XWhWUStlNGnOfjHl35PMwSQZ-0Q&usqp=CAU"
+    },
+    {
+        "name": "Yo Yo Honey Singh",
+        "age": "39 years",
+        "occupation": "  Rapper; Singer; Actor;Music  ",
+        "year_active": "1996-present",
+        "Awards": "Awards of the International Indian Film Academy. Popular Award, MORE",
+        "price": 110000,
+        "img": "https://img.mensxp.com/media/content/2021/Aug/Yo-Yo-Honey-Singh-New-Hairstyle-2019-Pictures-Download-2_610a6f95d4cff.jpeg?w=900&h=1200&cc=1"
+    },
+    {
+        "name": "Jubin Nautiyal",
+        "age": "33 years",
+        "occupation": " Singer; actor",
+        "year_active": "2014-present",
+        "Awards": "Awards of the International Indian Film Academy. Popular Award, MORE",
+        "price": 80000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jubin_Nauityal_at_the_Good_Homes_Awards_2015.jpg"
+    },
+    {
+        "name": "Asees Kaur",
+        "age": "33 years",
+        "occupation": " Playback singer",
+        "year_active": "2016-present",
+        "Awards": "Filmfare Award for Best Female Playback Singer, MORE",
+        "price": 70000,
+        "img": "https://images.hindustantimes.com/img/2022/01/15/550x309/53cf88d4-75ee-11ec-9427-36667445a51d_1642258933221.jpg"
+    },
+    {
+        "name": "Atif Aslam",
+        "age": "39 years",
+        "occupation": " Singer; songwriter; composer",
+        "year_active": "2000-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 90000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3ZCJX8lj-f776dMArfEge2FdIe5Z65_8lYEl9ptNcxNJmqml"
+    },
+    {
+        "name": "Armaan Malik",
+        "age": "26 years",
+        "occupation": " Acto,Playback singer,songwriter,Guitarist.",
+        "year_active": "2006-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 110000,
+        "img": "https://yt3.ggpht.com/Y3Xd5a92Olf_5x5igDk8MzzqyKChkP3jKoV6-Iux8e7zChGDMSsrLIt95T8GZd--0FTqQE9KfQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Dhvani Bhanushali",
+        "age": "24 years",
+        "occupation": " Acto, singer.",
+        "year_active": "2018-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 100000,
+        "img": "https://images.indianexpress.com/2019/03/dhvani-bhanushali-759.jpg"
+    },
+    {
+        "name": "Kanika Kapoor",
+        "age": "43 years",
+        "occupation": " Singer; composer.",
+        "year_active": "2012-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 78000,
+        "img": "https://navbharattimes.indiatimes.com/photo/msid-90518751,imgsize-31310/pic.jpg"
+    },
+    {
+        "name": "Monali Thakur.",
+        "age": "36 years",
+        "occupation": " Singer; actress.",
+        "year_active": "2006-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://i2.cinestaan.com/image-bank/1500-1500/72001-73000/72608.jpg"
+    },
+    {
+        "name": "Javed Ali. ",
+        "age": "39 years",
+        "occupation": " Singer; television presenter.",
+        "year_active": "2000-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://www.masala.com/cloud/2021/08/01/FyDKLhfN-649777-javed-ali.jpg"
+    },
+    {
+        "name": "Guru Randhawa. ",
+        "age": "30 years",
+        "occupation": " Singer; lyricist; composer.",
+        "year_active": "2012-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://m.media-amazon.com/images/M/MV5BM2E1ODgxYjAtNThmYy00NmU3LWJlOTQtNTU1YjUwNGI5NmMxXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+    },
+    {
+        "name": "Darshan Raval. ",
+        "age": "27 years",
+        "occupation": " Singer; Composer; Lyricist.",
+        "year_active": "2014-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://images.mid-day.com/images/images/2021/oct/darshanravalresized_d.jpg"
+    },
+    {
+        "name": "Harrdy Sandhu ",
+        "age": "35 years",
+        "occupation": " Singer; Actor.",
+        "year_active": "2005-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
+    },
+    {
+        "name": "Harrdy Sandhu ",
+        "age": "35 years",
+        "occupation": " Singer; Actor.",
+        "year_active": "2005-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
+    },
+    {
+        "name": "Harrdy Sandhu ",
+        "age": "35 years",
+        "occupation": " Singer; Actor.",
+        "year_active": "2005-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
+    },
+    {
+        "name": "Harrdy Sandhu ",
+        "age": "35 years",
+        "occupation": " Singer; Actor.",
+        "year_active": "2005-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
+    },
+    {
+        "name": "Harrdy Sandhu ",
+        "age": "35 years",
+        "occupation": " Singer; Actor.",
+        "year_active": "2005-present",
+        "Awards": "IIFA Awards,Screen Awards, MORE",
+        "price": 190000,
+        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
+    }
+]

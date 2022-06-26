@@ -1,0 +1,8 @@
+.singel-cart {
+    background-color: rgb(12, 74, 74);
+    width: 300px;
+    display: inline-block;
+    overflow: hidden;
+    padding: 10px;
+    color: lightcoral;
+}

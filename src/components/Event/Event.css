@@ -1,0 +1,25 @@
+.event-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 30px;
+    grid-column: 10px;
+}
+
+.singer-container {
+    display: grid;
+    border-right: 2px solid rgb(106, 167, 33);
+    grid-template-columns: 350px 350px 350px;
+    gap: 38px;
+    row-gap: normal;
+    padding: 20px;
+    justify-items: center;
+    align-items: center;
+    margin: 5px;
+
+}
+
+/* .cart-container {
+    display: block;
+    width: 400px;
+    background-color: blueviolet;
+} */
