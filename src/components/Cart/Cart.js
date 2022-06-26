@@ -19,7 +19,7 @@ const Cart = (props) => {
             <h4>Total Price: {total} </h4>
             <br />
 
-
+jjj
         </div>
     );
 };
