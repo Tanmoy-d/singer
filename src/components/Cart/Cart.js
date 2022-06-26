@@ -19,18 +19,14 @@ const Cart = (props) => {
     }
 
     function renderSingleCartItem(cart){
-        let cartKeys = Object.keys(cart)
-        if(cartKeys && cartKeys.length > 0){
-            return cartKeys.map(eachCart=>(
-                <div className='singel-cart'>
-                    <h4>Name : {cart[eachCart].name}</h4>
-                    <h4>Price: {cart[eachCart].price} </h4>
-                    <img src={cart[eachCart].img}  />
-                    <br />
-                </div>
-            ))
-        }
-
+        return cart.map((eachCart, index)=>(
+            <div className='singel-cart' key={index}>
+                <h4>Name : {eachCart.name}</h4>
+                <h4>Price: {eachCart.price} </h4>
+                <img src={eachCart.img} />
+                <br />
+            </div>
+        ))
     }
 
     return (
