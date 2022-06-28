@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Arijit Singh",
         "age": "35 years",
         "occupation": "Singer; composer; music produc...",
@@ -9,6 +10,7 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Arijit_5th_GiMA_Awards.jpg/330px-Arijit_5th_GiMA_Awards.jpg"
     },
     {
+        "id": 2,
         "name": "Shreya Ghoshal",
         "age": "38 years",
         "occupation": "Singer; talent show judge; ",
@@ -18,6 +20,7 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Shreya_Ghoshal_at_Filmfare_Awards_South.jpg"
     },
     {
+        "id": 3,
         "name": "Sonu Nigam",
         "age": "48 years",
         "occupation": " Playback singer; music director; ",
@@ -27,6 +30,7 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHs3CUOeXmkGddJ-s_jNXM09c7MOtUuPsbDQ&usqp=CAU"
     },
     {
+        "id": 4,
         "name": "Neha Kakkar",
         "age": "38 years",
         "occupation": " Singer; ",
@@ -36,6 +40,7 @@
         "img": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSKgVoCeFzuKVixU1OHBqvxmbAMkVj_e9lzBhmrdqq9wa8e2WNTwnU-k6osYCkrbln9"
     },
     {
+        "id": 5,
         "name": "Sunidhi Chauhan",
         "age": "38 years",
         "occupation": " Singer; ",
@@ -45,6 +50,7 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGtSkYCE0XWhWUStlNGnOfjHl35PMwSQZ-0Q&usqp=CAU"
     },
     {
+        "id": 6,
         "name": "Yo Yo Honey Singh",
         "age": "39 years",
         "occupation": "  Rapper; Singer; Actor;Music  ",
@@ -54,6 +60,7 @@
         "img": "https://img.mensxp.com/media/content/2021/Aug/Yo-Yo-Honey-Singh-New-Hairstyle-2019-Pictures-Download-2_610a6f95d4cff.jpeg?w=900&h=1200&cc=1"
     },
     {
+        "id": 7,
         "name": "Jubin Nautiyal",
         "age": "33 years",
         "occupation": " Singer; actor",
@@ -63,6 +70,7 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jubin_Nauityal_at_the_Good_Homes_Awards_2015.jpg"
     },
     {
+        "id": 8,
         "name": "Asees Kaur",
         "age": "33 years",
         "occupation": " Playback singer",
@@ -72,6 +80,7 @@
         "img": "https://images.hindustantimes.com/img/2022/01/15/550x309/53cf88d4-75ee-11ec-9427-36667445a51d_1642258933221.jpg"
     },
     {
+        "id": 9,
         "name": "Atif Aslam",
         "age": "39 years",
         "occupation": " Singer; songwriter; composer",
@@ -81,6 +90,7 @@
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3ZCJX8lj-f776dMArfEge2FdIe5Z65_8lYEl9ptNcxNJmqml"
     },
     {
+        "id": 10,
         "name": "Armaan Malik",
         "age": "26 years",
         "occupation": " Acto,Playback singer,songwriter,Guitarist.",
@@ -90,6 +100,7 @@
         "img": "https://yt3.ggpht.com/Y3Xd5a92Olf_5x5igDk8MzzqyKChkP3jKoV6-Iux8e7zChGDMSsrLIt95T8GZd--0FTqQE9KfQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
+        "id": 11,
         "name": "Dhvani Bhanushali",
         "age": "24 years",
         "occupation": " Acto, singer.",
@@ -99,6 +110,7 @@
         "img": "https://images.indianexpress.com/2019/03/dhvani-bhanushali-759.jpg"
     },
     {
+        "id": 12,
         "name": "Kanika Kapoor",
         "age": "43 years",
         "occupation": " Singer; composer.",
@@ -108,6 +120,7 @@
         "img": "https://navbharattimes.indiatimes.com/photo/msid-90518751,imgsize-31310/pic.jpg"
     },
     {
+        "id": 13,
         "name": "Monali Thakur.",
         "age": "36 years",
         "occupation": " Singer; actress.",
@@ -117,6 +130,7 @@
         "img": "https://i2.cinestaan.com/image-bank/1500-1500/72001-73000/72608.jpg"
     },
     {
+        "id": 14,
         "name": "Javed Ali. ",
         "age": "39 years",
         "occupation": " Singer; television presenter.",
@@ -126,6 +140,7 @@
         "img": "https://www.masala.com/cloud/2021/08/01/FyDKLhfN-649777-javed-ali.jpg"
     },
     {
+        "id": 15,
         "name": "Guru Randhawa. ",
         "age": "30 years",
         "occupation": " Singer; lyricist; composer.",
@@ -135,6 +150,7 @@
         "img": "https://m.media-amazon.com/images/M/MV5BM2E1ODgxYjAtNThmYy00NmU3LWJlOTQtNTU1YjUwNGI5NmMxXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
     },
     {
+        "id": 16,
         "name": "Darshan Raval. ",
         "age": "27 years",
         "occupation": " Singer; Composer; Lyricist.",
@@ -144,42 +160,7 @@
         "img": "https://images.mid-day.com/images/images/2021/oct/darshanravalresized_d.jpg"
     },
     {
-        "name": "Harrdy Sandhu ",
-        "age": "35 years",
-        "occupation": " Singer; Actor.",
-        "year_active": "2005-present",
-        "Awards": "IIFA Awards,Screen Awards, MORE",
-        "price": 190000,
-        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
-    },
-    {
-        "name": "Harrdy Sandhu ",
-        "age": "35 years",
-        "occupation": " Singer; Actor.",
-        "year_active": "2005-present",
-        "Awards": "IIFA Awards,Screen Awards, MORE",
-        "price": 190000,
-        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
-    },
-    {
-        "name": "Harrdy Sandhu ",
-        "age": "35 years",
-        "occupation": " Singer; Actor.",
-        "year_active": "2005-present",
-        "Awards": "IIFA Awards,Screen Awards, MORE",
-        "price": 190000,
-        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
-    },
-    {
-        "name": "Harrdy Sandhu ",
-        "age": "35 years",
-        "occupation": " Singer; Actor.",
-        "year_active": "2005-present",
-        "Awards": "IIFA Awards,Screen Awards, MORE",
-        "price": 190000,
-        "img": "https://indianewengland.com/wp-content/uploads/2020/03/Harrdy-Sandhu2.jpg"
-    },
-    {
+        "id": 17,
         "name": "Harrdy Sandhu ",
         "age": "35 years",
         "occupation": " Singer; Actor.",

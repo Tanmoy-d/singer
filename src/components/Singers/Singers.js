@@ -3,7 +3,7 @@ import './Singer.css'
 
 const Singers = (props) => {
     const { name, img, age, occupation, Awards, year_active, price } = props.singer;
-    console.log(props.singer);
+    // console.log(props.singer);
     return (
         <>
             <div className='singer'>

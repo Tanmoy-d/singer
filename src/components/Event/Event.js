@@ -6,7 +6,7 @@ import './Event.css'
 const Event = () => {
     const [singers, setSingers] = useState([]);
     const [cart, setCart] = useState([]);
-
+    const [remove, setRemove] = useState(singers);
     useEffect(() => {
         fetch('./singers.JSON')
             .then(res => res.json())
@@ -16,12 +16,18 @@ const Event = () => {
         const newSinger = [...cart, singer]
         setCart(newSinger)
     }
+    const handelRemove = key => {
+        const newRemove = remove.filter(singers => singers.key !== key);
+        setRemove(newRemove);
+    }
+
     return (
         <div>
             <div className='event-container'>
                 <div className='singer-container'>
                     {
                         singers.map(singer => <Singers
+                            key={singer.id}
                             singer={singer}
                             handelAddToCart={handelAddToCart}
 
@@ -30,7 +36,7 @@ const Event = () => {
                     }
                 </div>
                 <div className='cart-container'>
-                    <Cart cart={cart}> </Cart><br />
+                    <Cart cart={cart} handelRemove={handelRemove}> </Cart>
                 </div>
             </div>
 
